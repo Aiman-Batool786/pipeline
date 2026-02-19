@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite
+*.db
+
+# Virtual Environment
+venv/
+
+# Environment variables
+.env
+
+# Large data files
+categories_with_embeddings.csv
+category_embeddings.pkl
